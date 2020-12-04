@@ -1,2 +1,2 @@
 # wp
-wordpress + docker compose setup
+📰 wordpress + docker compose setup
